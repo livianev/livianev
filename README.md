@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning javascript<br>🎲 Fun fact: learning to play guitar and studying music since 2022.</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning JavaScript<br>🎲 Fun fact: learning to play guitar and studying music since 2022.</p>
 
 ###
 
