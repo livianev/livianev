@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ana Lívia, I'm 17 years old and I'm a beginner in programming through the BIT and L'Oréal programs.</p>
+<p align="left">My name is Ana Lívia, I'm 17 years old and I'm a beginner in programming through the BIT L'Oréal programs.</p>
 
 ###
 
