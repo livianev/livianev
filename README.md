@@ -1,8 +1,8 @@
-<h1 align="left">Hey! 👾</h1>
+<h1 align="left">Hey!🤖</h1>
 
 ###
 
-<p align="left">My name is Ana Lívia, I'm 18 years old and I'm a beginner in programming through the BIT L'Oréal programs.</p>
+<p align="left">I'm Ana Lívia and i'm a junior developer since 2024. </p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Working as a developer since 2024<br>📚 I'm currently learning JavaScript<br></p>
+<p align="left"><br>Actually i'm studying JavaScript, Python and C# (sharp). In my repositories you will see simple projects with HTML, SCSS and CSS. <br></p>
 
 ###
 
