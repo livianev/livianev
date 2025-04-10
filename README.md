@@ -38,6 +38,6 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Follow me for more.</p>
 
 ###
