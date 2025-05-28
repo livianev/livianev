@@ -1,8 +1,10 @@
-<h1 align="left">Hey!🤖</h1>
+<h1 align="left">Hey there. </h1>
 
 ###
 
-<p align="left">I'm Ana Lívia and i'm a junior developer since 2024. </p>
+<p align="left">
+I'm **Ana Lívia**, a Junior Developer passionate about building clean, functional, and user-friendly applications. I started my journey in 2024 and have been exploring different technologies ever since.
+ </p>
 
 ###
 
@@ -10,11 +12,13 @@
 
 ###
 
-<p align="left"><br>Actually i'm studying JavaScript, Python and C# (sharp). In my repositories you will see simple projects with HTML, SCSS and CSS. <br></p>
+<p align="left"><br>
+I'm currently studying **JavaScript**, **Python** and **SQL**, and I enjoy experimenting with front-end technologies like **HTML**, **SCSS**, and **CSS**. My repositories include simple projects that reflect my learning path and curiosity for development.
+ <br></p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Technologies i work with</h2>
 
 ###
 
